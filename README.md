@@ -38,7 +38,7 @@ At each reporting level, add 2 spaces precedding the name.
 Employees are always displayed in the order they are processed.
 
 
-## Adding and Employee
+## Adding an Employee
 The command is of the format
 ```add, <employee id>, <name>, <manager id>```
 
